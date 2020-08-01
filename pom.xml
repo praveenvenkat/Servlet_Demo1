@@ -4,6 +4,6 @@
  
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1</version>
-  <package>war</package>
+  <version>1.0</version>
+  <packages>war</packages>
 </project>
